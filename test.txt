@@ -1,1 +1,2 @@
 First commit for rebase/merge test
+Second commit for rebase/merge test
